@@ -7,4 +7,5 @@ rvm:
  - rbx-4
  - rbx-2
  - rbx-3
- - rbx-4
+ - rbx-5
+  - rbx-6
